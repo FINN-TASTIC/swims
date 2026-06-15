@@ -4,7 +4,7 @@
    <sumary>Click fro colorful content</sumary>
 </details>
 
-   ![Badge](https://img.shields.io/badge/Text-Color-blue)
+  -> ![Badge](https://img.shields.io/badge/Text-Color-blue) <-
 
 $${\color{red}Welcome \space \color{ligthblue}To \space \color{orange} World}$$
 
